@@ -28,4 +28,4 @@ Buatlah form yang menampilkan dropdown menu dan listbox dengan multiple selectio
 
         <input type="submit" value="Submit">
 ```
-![img](
+![img](gambar/8.PNG)
